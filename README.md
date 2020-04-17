@@ -14,6 +14,9 @@
 1. Fork + clone du repo
 2. ouvrir le projet dans android studio
 3. lancer le build
+4. Lancer le terminal virtuel (AVD) et lancer l'exécution de l'application
+5. Lancer le serveur REST
+6. L appui sur le bouton devrait faire afficher `got it`dans la zone de texte.
 
 ## 1. Réglages de l'application:
 * ```URL```: l'url complète de la ressource testée (.../api/v1/myresource).
