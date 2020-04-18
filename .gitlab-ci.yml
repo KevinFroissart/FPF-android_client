@@ -13,7 +13,7 @@ stages:
   - 🔍 test
   - 📦 build
 
-build:
+test:
   stage: 🔍 test
   script:
     - ./gradlew test
