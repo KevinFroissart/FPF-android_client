@@ -18,6 +18,9 @@ test:
   stage: 🔍 test
   script:
     - ./gradlew test
+  artifacts:
+    reports:
+      junit: app/build/**/*.xml
 
 build:
   stage: 📦 build
