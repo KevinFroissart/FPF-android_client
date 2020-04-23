@@ -19,6 +19,7 @@ test:
   script:
     - ./gradlew test
   artifacts:
+    untracked: true
     reports:
       junit: app/build/test-results/**/*.xml
 
