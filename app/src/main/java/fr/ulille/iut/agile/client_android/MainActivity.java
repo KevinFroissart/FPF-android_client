@@ -27,7 +27,7 @@ import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
 
 public class MainActivity extends AppCompatActivity {
-    private final String url = "http://skeleton.azae.eu/api/v1/myresource";
+    private final String url = "https://groupe9.azae.eu/api/v1/myresource";
     private RequestQueue queue;
 
     @Override
