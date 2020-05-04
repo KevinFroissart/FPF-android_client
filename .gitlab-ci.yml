@@ -32,6 +32,9 @@ build:
   artifacts:
     paths:
       - app/build/outputs/apk/
+  only:
+    - dev
+    - master
 
 pages:
   stage: 🦊 pages
@@ -45,4 +48,5 @@ pages:
   artifacts:
     paths:
       - public
-
+  only:
+    - master
