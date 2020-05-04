@@ -4,4 +4,11 @@
     <string name="Connexion">Connexion</string>
     <string name="Info">Info</string>
     <string name="Contact">Contact</string>
+    <string name="Nom_Logo">Faire-Part Fait</string>
+    <string name="Nom">Nom</string>
+    <string name="Prenom">Prenom</string>
+    <string name="Mot_de_Passe">Mot De Passe</string>
+    <string name="Email">E-mail</string>
+    <string name="Subscribe_button">S\'inscrire</string>
+    <string name="login_failed">mot de passe ou identifiant incorrect</string>
 </resources>
